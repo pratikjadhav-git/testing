@@ -1,2 +1,2 @@
 FROM ubuntu:latest
-MAINTAINER pratikjd
+MAINTAINER pratikjadhav
